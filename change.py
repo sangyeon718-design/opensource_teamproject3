@@ -11,5 +11,4 @@ def change():
         for ch in t:
             c+=ch.upper()
         print(c)
-
 change()
