@@ -1,8 +1,8 @@
 import Unit_conversion
-import average_score
 import feature_average_score
 import change
 import random_password
+import calculator
 
 def main():
     while True:
@@ -19,7 +19,7 @@ def main():
         if choice == "1":
             unit_conversion()
         elif choice == "2":
-            average_score.calculate_average()
+            calculator()
         elif choice == "3":
             feature_average()
         elif choice == "4":
