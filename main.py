@@ -19,11 +19,11 @@ def main():
         if choice == "1":
             unit_conversion()
         elif choice == "2":
-            calculator()
+            run()
         elif choice == "3":
             feature_average()
         elif choice == "4":
-            change.change()
+            change()
         elif choice == "5":
             make_random_password()
         elif choice == "0":
