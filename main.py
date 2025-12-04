@@ -30,7 +30,7 @@ def main():
             print("프로그램 종료")
             break
         else:
-            print("다시 입력하세요.")
+            print("잘못된 입력을하였습니다. 다시 입력하세요.")
 
 if __name__ == "__main__":
     main()
