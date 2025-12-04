@@ -13,7 +13,8 @@
 ## 실행 방법  
 
 ## Git 협업 기록  
-
+- PR 수
+  
 - 충돌 해결 경험  
 main브랜치와 correction/menu의 브랜치에서 main.py파일을 각자 다르게 수정하였다.
 
