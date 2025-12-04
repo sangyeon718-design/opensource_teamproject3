@@ -1,8 +1,8 @@
 main브랜치와 correction/menu의 브랜치에서 main.py파일을 각자 다르게 수정하였다.
 
-  main 브랜치: print("잘못된 입력하였습니다. 다시 입력하세요.")
+  -main 브랜치: print("잘못된 입력하였습니다. 다시 입력하세요.")
   
-  correction/menu 브랜치: print("잘못된 입력입니다. 다시 입력하세요.")
+  -correction/menu 브랜치: print("잘못된 입력입니다. 다시 입력하세요.")
   
 correction/menu브랜치를 main브랜치에 병합하려고 시도중 main.py파일에 충돌이 발생하였다.
 
