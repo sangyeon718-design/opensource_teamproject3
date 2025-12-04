@@ -14,7 +14,7 @@ def main():
         print("5. Random Password Generator")
         print("0. Exit")
 
-        choice = input("메뉴 입력: ")
+        choice = input("메뉴 입력: ").strip()
 
         if choice == "1":
             unit_conversion()
@@ -30,7 +30,7 @@ def main():
             print("프로그램 종료")
             break
         else:
-            print("다시 입력하세요.")
+            print("잘못된 입력입니다. 다시 입력하세요.")
 
 if __name__ == "__main__":
     main()
