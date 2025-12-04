@@ -32,5 +32,6 @@ def main():
         else:
             print("잘못된 입력입니다. 다시 입력하세요.")
 
+
 if __name__ == "__main__":
     main()
