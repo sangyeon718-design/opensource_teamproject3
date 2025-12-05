@@ -1,4 +1,4 @@
-import Unit_conversion
+import Unit_conversion 
 import feature_average_score
 import change
 import random_password
@@ -17,7 +17,7 @@ def main():
         choice = input("메뉴 입력: ").strip()
 
         if choice == "1":
-            unit_conversion()
+            Unit_conversion.unit_conversion()
         elif choice == "2":
             run()
         elif choice == "3":
