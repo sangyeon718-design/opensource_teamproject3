@@ -2,8 +2,8 @@
 주제: 미니 도구 모음  
 사용 언어: Python  
 
-- 기능/역할분담
-main.py : 권나현, 김상연
+- 기능/역할분담  
+main.py : 권나현, 김상연  
 1. 단위 변환기: 김상연  
 2. 간단 계산기(calculator.py): 정은담  
 3. 점수 평균 계산(feature_average_score.py): 권나현  
