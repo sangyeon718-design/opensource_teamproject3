@@ -4,8 +4,8 @@
 
 - ### 기능/역할분담
 
-main.py : 권나현(rokytoky2), 김상연(sangyeon718-design)  
-README.md : 권나현(rokytoky2), 김상연(sangyeon718-design)  
+  main.py : 권나현(rokytoky2), 김상연(sangyeon718-design)  
+  README.md : 권나현(rokytoky2), 김상연(sangyeon718-design)  
 
 1. 단위 변환기(Unit_conversion.py): 김상연(sangyeon718-design)  
 2. 간단 계산기(calculator.py): 정은담(eundam)  
