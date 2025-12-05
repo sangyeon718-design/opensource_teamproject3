@@ -2,7 +2,7 @@
 주제: 미니 도구 모음  
 사용 언어: Python  
 
-- 기능/역할분담
+- ### 기능/역할분담
 
 main.py : 권나현(rokytoky2), 김상연(sangyeon718-design)  
 README.md : 권나현(rokytoky2), 김상연(sangyeon718-design)  
@@ -19,7 +19,7 @@ README.md : 권나현(rokytoky2), 김상연(sangyeon718-design)
 main.py를 실행하면 메뉴 번호를 입력받아 각 기능에 해당하는 모듈(.py 파일)을 실행한다.  
 
 ## Git 협업 기록  
-- Pull Request 수  
+- ### Pull Request 수  
 
 김상연(sangyeon718-design): 2  
 정은담(eundam): 1  
@@ -27,7 +27,7 @@ main.py를 실행하면 메뉴 번호를 입력받아 각 기능에 해당하는
 김민성(okkms0620-lab): 3  
 안찬모(anc7784): 1  
 
-- 충돌 해결 경험  
+- ### 충돌 해결 경험  
 
 1. main 브랜치와 correction/menu 브랜치에서 main.py 파일을 서로 다르게 수정하였다.  
   main 브랜치의 main.py 내용: print("잘못된 입력하였습니다. 다시 입력하세요.")  
