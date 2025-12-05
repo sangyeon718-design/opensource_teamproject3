@@ -4,10 +4,10 @@
 
 - 기능/역할분담
 main.py : 권나현, 김상연
-1. 단위 변환기(change.py): 김상연  
+1. 단위 변환기: 김상연  
 2. 간단 계산기(calculator.py): 정은담  
 3. 점수 평균 계산(feature_average_score.py): 권나현  
-4. 문자열 처리: 김민성  
+4. 문자열 처리(change.py): 김민성  
 5. 랜덤 비밀번호 생성기(random_password.py): 안찬모  
 
 
