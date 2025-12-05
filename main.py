@@ -1,14 +1,12 @@
 import Unit_conversion 
 import feature_average_score
-import change
-import random_password
 import calculator
 
 def main():
     while True:
         print("\n==== Main Menu ====")
         print("1. Unit Conversion")
-        print("2. Average Score")
+        print("2. Calculator")
         print("3. Feature Average Score")
         print("4. Change Calculation")
         print("5. Random Password Generator")
@@ -19,13 +17,14 @@ def main():
         if choice == "1":
             Unit_conversion.unit_conversion()
         elif choice == "2":
-            run()
+            calculator.run()
         elif choice == "3":
-            feature_average()
+            feature_average_score.feature_average()
         elif choice == "4":
-            change()
+            import change
+            change.change()
         elif choice == "5":
-            make_random_password()
+            import random_password
         elif choice == "0":
             print("프로그램 종료")
             break
