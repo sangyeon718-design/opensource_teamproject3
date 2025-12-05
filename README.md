@@ -5,12 +5,14 @@
 - 기능/역할분담
 
 main.py : 권나현(rokytoky2), 김상연(sangyeon718-design)  
+README.md : 권나현(rokytoky2), 김상연(sangyeon718-design)  
+
 1. 단위 변환기(Unit_conversion): 김상연(sangyeon718-design)  
 2. 간단 계산기(calculator.py): 정은담(eundam)  
 3. 점수 평균 계산(feature_average_score.py): 권나현(rokytoky2)  
 4. 문자열 처리(change.py): 김민성(okkms0620-lab)  
 5. 랜덤 비밀번호 생성기(random_password.py): 안찬모(anc7784)  
-README.md : 권나현(rokytoky2), 김상연(sangyeon718-design)  
+
 
 
 ## 실행 방법  
