@@ -7,7 +7,7 @@
 main.py : 권나현(rokytoky2), 김상연(sangyeon718-design)  
 README.md : 권나현(rokytoky2), 김상연(sangyeon718-design)  
 
-1. 단위 변환기(Unit_conversion): 김상연(sangyeon718-design)  
+1. 단위 변환기(Unit_conversion.py): 김상연(sangyeon718-design)  
 2. 간단 계산기(calculator.py): 정은담(eundam)  
 3. 점수 평균 계산(feature_average_score.py): 권나현(rokytoky2)  
 4. 문자열 처리(change.py): 김민성(okkms0620-lab)  
