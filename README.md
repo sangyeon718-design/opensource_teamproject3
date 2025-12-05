@@ -22,11 +22,11 @@ main.py를 실행하면 메뉴 번호를 입력받아 각 기능에 해당하는
 김민성:
 안찬모:
   
-- 충돌 해결 경험  
-main 브랜치와 correction/menu 브랜치에서 main.py 파일을 서로 다르게 수정하였다.  
+- 충돌 해결 경험
 
-main 브랜치의 main.py 내용: print("잘못된 입력하였습니다. 다시 입력하세요.")  
-correction/menu 브랜치의 main.py 내용: print("잘못된 입력입니다. 다시 입력하세요.")  
+main 브랜치와 correction/menu 브랜치에서 main.py 파일을 서로 다르게 수정하였다.  
+  main 브랜치의 main.py 내용: print("잘못된 입력하였습니다. 다시 입력하세요.")  
+  correction/menu 브랜치의 main.py 내용: print("잘못된 입력입니다. 다시 입력하세요.")  
 
 두 브랜치를 병합하는 과정에서 main.py에 충돌이 발생하였고, GitHub 웹 에디터에서 correction/menu 브랜치의 수정사항을 선택하여 충돌을 해결하였다.  
 
